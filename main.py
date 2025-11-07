@@ -8,7 +8,7 @@ pygame.init()
 #Screen size and title
 WIDTH, HEIGHT = 600,400
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("🎮Rock APper Scissors")
+pygame.display.set_caption("🎮Rock Paper Scissors")
 
 #Colors (RGB foprmat)
 WHITE = (255, 255, 255)
